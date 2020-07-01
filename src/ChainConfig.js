@@ -11,9 +11,9 @@ var config = {
       chain_id:
         "4018d7844c78f6a6c41c6a552b898022310fc5dec06da467ee7905a8dad512c8"
     },
-    Metaverse: {
+    MetaverseTestnetUdrur: {
       address_prefix: "DNA",
-      chain_id: "93b266081a68bea383ef613753a9cafaa01b3b7b04ed00a01e5dec5de8cb4983",
+      chain_id: "13ff0ef49d555cb7136586fe3c4a9d7ff0fefe6380ae36446135ebfad0af2e17",
       core_asset: "DNA"
     }
   },
