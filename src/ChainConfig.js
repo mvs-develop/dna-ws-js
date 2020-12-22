@@ -15,6 +15,16 @@ var config = {
       address_prefix: "DNA",
       chain_id: "8278e1c46cffb419eca1f7032210be9ecc5eccebb30bed66b8aafaf431b04ce7",
       core_asset: "DNA"
+    },
+    MetaverseTestnet: {
+      address_prefix: "DNA",
+      chain_id: "19969b8cd3c7f00520722c08f97cebe80bb4443098e76726119c767d59354333",
+      core_asset: "DNA"
+    },
+    MetaverseMainnet: {
+      address_prefix: "DNA",
+      chain_id: "24938a99198d850bb7d79010c1325fb63fde63e8e477a5443ff5ce50ab867055",
+      core_asset: "DNA"
     }
   },
 
