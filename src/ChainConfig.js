@@ -11,23 +11,20 @@ var config = {
       chain_id:
         "4018d7844c78f6a6c41c6a552b898022310fc5dec06da467ee7905a8dad512c8"
     },
-    Muse: {
-      core_asset: "MUSE",
-      address_prefix: "MUSE",
-      chain_id:
-        "45ad2d3f9ef92a49b55c2227eb06123f613bb35dd08bd876f2aea21925a67a67"
+    MetaverseTestnetUdrur: {
+      address_prefix: "DNA",
+      chain_id: "8278e1c46cffb419eca1f7032210be9ecc5eccebb30bed66b8aafaf431b04ce7",
+      core_asset: "DNA"
     },
-    Test: {
-      core_asset: "TEST",
-      address_prefix: "TEST",
-      chain_id:
-        "39f5e2ede1f8bc1a3a54a7914414e3779e33193f1f5693510e73cb7a87617447"
+    MetaverseTestnet: {
+      address_prefix: "DNA",
+      chain_id: "19969b8cd3c7f00520722c08f97cebe80bb4443098e76726119c767d59354333",
+      core_asset: "DNA"
     },
-    Obelisk: {
-      core_asset: "GOV",
-      address_prefix: "FEW",
-      chain_id:
-        "1cfde7c388b9e8ac06462d68aadbd966b58f88797637d9af805b4560b0e9661e"
+    MetaverseMainnet: {
+      address_prefix: "DNA",
+      chain_id: "24938a99198d850bb7d79010c1325fb63fde63e8e477a5443ff5ce50ab867055",
+      core_asset: "DNA"
     }
   },
 
